@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1590956937306.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "1188923572",
+    "id" : "D0717492",
+    "lastKnownWriteTime" : 1590956804,
+    "last_content_update" : 1590956804,
+    "path" : "~/Downloads/r-whatsapp-analysis-parte2/r-whatsapp-analysis-parte2/main.R",
+    "project_path" : "main.R",
+    "properties" : {
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
