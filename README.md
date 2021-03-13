@@ -13,3 +13,6 @@ Sentiment analysis and data visualization with R of WhatsApp conversations, seco
 
 There is a first part, which I would recommend visiting first, as the context for this second part of this example, of text analysis and data visualization. Medium article: https://medium.com/swlh/chat-analysis-on-whatsapp-part-1-text-analysis-and-data-visualization-with-r-3a7e4e8362f2
 
+
+#### *Project preview*
+https://www.youtube.com/watch?v=zQkB3h18D6A
